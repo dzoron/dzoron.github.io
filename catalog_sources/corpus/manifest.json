@@ -2249,8 +2249,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-02",
@@ -2310,8 +2310,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-03",
@@ -2371,8 +2371,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-04",
@@ -2435,8 +2435,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-05",
@@ -2495,8 +2495,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-06",
@@ -2557,8 +2557,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-07",
@@ -2619,8 +2619,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-08",
@@ -2679,8 +2679,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-09",
@@ -2741,8 +2741,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-10",
@@ -2804,8 +2804,8 @@
       },
       "batch": 3,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-01",
@@ -3241,7 +3241,7 @@
       "source_file_available": false
     }
   ],
-  "published_new_count": 26,
-  "published_catalog_count": 41,
-  "remaining_new_count": 17
+  "published_new_count": 36,
+  "published_catalog_count": 51,
+  "remaining_new_count": 7
 }
