@@ -1479,8 +1479,8 @@
           "relation": "Distinct supplied Alice Is the Name version; both preserved."
         }
       ],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-02",
@@ -1541,8 +1541,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-03",
@@ -1604,8 +1604,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-04",
@@ -1667,8 +1667,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-05",
@@ -1729,8 +1729,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-06",
@@ -1798,8 +1798,8 @@
           "relation": "Distinct supplied Alice Is the Name version; both preserved."
         }
       ],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-07",
@@ -1861,8 +1861,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-08",
@@ -1923,8 +1923,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-09",
@@ -1987,8 +1987,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-10",
@@ -2035,7 +2035,6 @@
           "aa7d579e",
           "we take the signal",
           "i was listening remaster cut",
-          "welcome back",
           "seed lyric",
           "performance variant",
           "alice",
@@ -2051,8 +2050,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-11",
@@ -2119,8 +2118,8 @@
       },
       "batch": 2,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-aa7d579e-12",
@@ -2163,7 +2162,6 @@
           "allowed to breathe",
           "song-aa7d579e-12",
           "aa7d579e",
-          "allowed to breathe",
           "bonus track",
           "emotional afterword",
           "i missed the call",
@@ -2184,8 +2182,8 @@
           "relation": "Shared lyric material with distinct supplied title, section labels, and production notes; not deduplicated."
         }
       ],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-adc5ca7c-01",
@@ -3243,7 +3241,7 @@
       "source_file_available": false
     }
   ],
-  "published_new_count": 14,
-  "published_catalog_count": 29,
-  "remaining_new_count": 29
+  "published_new_count": 26,
+  "published_catalog_count": 41,
+  "remaining_new_count": 17
 }
