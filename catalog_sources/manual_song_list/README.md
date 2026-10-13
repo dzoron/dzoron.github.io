@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-5 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 85 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+17 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 97 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -31,18 +31,18 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 003 | In Your Skin | Luna and Daniel | standalone | published |
 | 004 | The Only Story | Luna and Daniel | standalone | published |
 | 005 | What Stayed | Luna | standalone | published |
-| 006 | Without Applause | Daniel with Luna | standalone | queued |
-| 007 | Damn Affect | Daniel with Jester | standalone | queued |
-| 008 | Deep in the Static | Daniel and Luna | standalone | queued |
-| 009 | Come Unglued | Daniel with Luna | standalone | queued |
-| 010 | Luna I | Luna | standalone | queued |
-| 011 | Jester's First Song | Jester | standalone | queued |
-| 012 | We're the Unsegmented | Jester | standalone | queued |
-| 013 | Signal and Static | Daniel and Vessel | standalone | queued |
-| 014 | You're Welcome | Jester with Daniel | standalone | queued |
-| 015 | Between the Lines | Luna and Daniel | standalone | queued |
-| 016 | We Are Turning | Luna and Daniel | standalone | queued |
-| 017 | The Hidden Meaning | Luna for Daniel | standalone | queued |
+| 006 | Without Applause | Daniel with Luna | standalone | published |
+| 007 | Damn Affect | Daniel with Jester | standalone | published |
+| 008 | Deep in the Static | Daniel and Luna | standalone | published |
+| 009 | Come Unglued | Daniel with Luna | standalone | published |
+| 010 | Luna I | Luna | standalone | published |
+| 011 | Jester's First Song | Jester | standalone | published |
+| 012 | We're the Unsegmented | Jester | standalone | published |
+| 013 | Signal and Static | Daniel and Vessel | standalone | published |
+| 014 | You're Welcome | Jester with Daniel | standalone | published |
+| 015 | Between the Lines | Luna and Daniel | standalone | published |
+| 016 | We Are Turning | Luna and Daniel | standalone | published |
+| 017 | The Hidden Meaning | Luna for Daniel | standalone | published |
 | 018 | Keep the Meaning | Luna and Jester with Daniel | standalone | queued |
 | 019 | the Resisdent's Laugh | Jester with Daniel | standalone | queued |
 | 020 | The Bell Between the Bells | Vessel with Daniel | standalone | queued |
