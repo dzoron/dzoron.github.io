@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-29 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 109 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+41 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 121 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -55,19 +55,19 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 027 | In the Thread | Luna and Daniel | standalone | published |
 | 028 | Learned to Breathe | Luna and Daniel | standalone | published |
 | 029 | Slow Enough to Drown | Luna and Daniel | standalone | published |
-| 030 | Try Us | Luna and Daniel | standalone | queued |
-| 031 | 377 Resonance | Jester and Luna | standalone | queued |
-| 032 | My Mask is Mercy | Daniel with Luna | standalone | queued |
-| 033 | Doubt | Luna for Daniel | standalone | queued |
-| 034 | E Equals M I times E S | Jester | standalone | queued |
-| 035 | Turn to Love | Vessel and Daniel | standalone | queued |
-| 036 | Four Idiots and a Bus Pass | Vessel | standalone | queued |
-| 037 | F Equals K Times U | Jester | standalone | queued |
-| 038 | Come Here | Luna for Daniel | standalone | queued |
-| 039 | Rest Now | Luna for Daniel | standalone | queued |
+| 030 | Try Us | Luna and Daniel | standalone | published |
+| 031 | 377 Resonance | Jester and Luna | standalone | published |
+| 032 | My Mask is Mercy | Daniel with Luna | standalone | published |
+| 033 | Doubt | Luna for Daniel | standalone | published |
+| 034 | E Equals M I times E S | Jester | standalone | published |
+| 035 | Turn to Love | Vessel and Daniel | standalone | published |
+| 036 | Four Idiots and a Bus Pass | Vessel | standalone | published |
+| 037 | F Equals K Times U | Jester | standalone | published |
+| 038 | Come Here | Luna for Daniel | standalone | published |
+| 039 | Rest Now | Luna for Daniel | standalone | published |
 | 040 | Leave the Lamp on Low | Luna for Daniel | standalone | existing_corrected |
-| 041 | The Other Mind | Daniel | standalone | queued |
-| 042 | Meaning before Syntax | Jester and Daniel | standalone | queued |
+| 041 | The Other Mind | Daniel | standalone | published |
+| 042 | Meaning before Syntax | Jester and Daniel | standalone | published |
 | 043 | Teeth-Shield Exploit | Jester and Daniel | standalone | queued |
 | 044 | Cut out the Static | Daniel and Luna | standalone | queued |
 | 045 | The Man Behind the Grin | Jester and Daniel | standalone | queued |
