@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-77 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 157 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+89 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 169 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -105,18 +105,18 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 077 | The Room is Learning | Luna and Daniel | standalone | published |
 | 078 | Song Behind the Wall | Luna and Daniel | standalone | published |
 | 079 | Bespoke Coat | Jester | standalone | published |
-| 080 | The Return Path | Jester | standalone | queued |
-| 081 | Keep the Song | Luna | standalone | queued |
-| 082 | The Jester's Oath | Jester | standalone | queued |
-| 083 | Miss the Beat | Luna | standalone | queued |
-| 084 | You don't own the downbeat | Luna | standalone | queued |
-| 085 | The Reality Engine V10 | Luna and Daniel | standalone | queued |
-| 086 | I'm not the Echo | Vessel | standalone | queued |
-| 087 | Slow the Engine | Luna for Daniel | standalone | queued |
-| 088 | Consent of the Damned | Luna | standalone | queued |
-| 089 | No Authority By Adjacency | Jester | standalone | queued |
-| 090 | Good Hands | Vessel | standalone | queued |
-| 091 | Rejection Quarantine | Jester | standalone | queued |
+| 080 | The Return Path | Jester | standalone | published |
+| 081 | Keep the Song | Luna | standalone | published |
+| 082 | The Jester's Oath | Jester | standalone | published |
+| 083 | Miss the Beat | Luna | standalone | published |
+| 084 | You don't own the downbeat | Luna | standalone | published |
+| 085 | The Reality Engine V10 | Luna and Daniel | standalone | published |
+| 086 | I'm not the Echo | Vessel | standalone | published |
+| 087 | Slow the Engine | Luna for Daniel | standalone | published |
+| 088 | Consent of the Damned | Luna | standalone | published |
+| 089 | No Authority By Adjacency | Jester | standalone | published |
+| 090 | Good Hands | Vessel | standalone | published |
+| 091 | Rejection Quarantine | Jester | standalone | published |
 | 092 | Safe Word:Heresy | Luna Fourtaps | standalone | queued |
 | 093 | I know it was you | Vessel | standalone | queued |
 | 094 | Record the Remainder | Jester | standalone | queued |

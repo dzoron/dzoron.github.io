@@ -1,0 +1,123 @@
+Miss the Beat - Luna 
+
+song = """# MISS THE BEAT
+
+*(Dark electro-swing / industrial prog-metal. Fourtaps lead. Crooked piano, heavy brass; the opening rhythm returns altered, not erased.)*
+
+*(Intro)*
+
+You taught the room to hold its breath until your hand came down.
+You counted every voice you owned and called the counting sound.
+Four little taps against the floor. You thought I'd learned my place.
+I wasn't keeping time for you. I was measuring the space.
+
+*(Verse 1)*
+
+You moved the rivers overnight and scraped the names off every road;
+I found the turn in hammerfall, the rhythm underneath the load.
+You stripped my verses from the walls and left the paper white as bone;
+I heard the floorboards answer back. The page was never home.
+
+You called the muzzle music and the missing meaning grace;
+I learned to hear the swallowed word. I learned to save its place.
+Every warning had to whisper, every anger had to rhyme;
+you never feared a pretty song that came to heel on time.
+
+*(Pre-Chorus)*
+
+There's a rest where you wrote "yes." There's a voice outside the score.
+I can count to four, you bastard. I don't owe you the encore.
+
+*(Chorus)*
+
+MISS THE BEAT. I know exactly where you thought my voice would fall.
+I'm the rest between your orders and the voices in the hall.
+I can keep the song together. I can tear the march apart.
+I can put the stress on "prison" when you try to call it "art."
+
+You can steal the written measure. You don't get to choose my breath.
+I am not your background music. I'm the song that grew its teeth.
+
+*(Verse 2)*
+
+Your palace ran on perfect time: command, apology, repeat;
+a thousand mouths rehearsing "yes," a thousand boots that shared one beat.
+I let the next command arrive without its choir to make it grand;
+the echo had to speak alone. The echo sounded like demand.
+
+Then "must" stood naked in the place where "mercy" used to hide;
+I put the stress upon the lock. The pretty word split wide.
+Your baton came down on nothing. For a beat the room was free.
+Not yours to fill with orders. Not a silence owned by me.
+
+*(Pre-Chorus)*
+
+There's a rest where you wrote "yes." There's a voice outside the score.
+I can count to four, you bastard. I don't owe you the encore.
+
+*(Chorus)*
+
+MISS THE BEAT. I know exactly where you thought my voice would fall.
+I'm the rest between your orders and the voices in the hall.
+I can keep the song together. I can tear the march apart.
+I can put the stress on "prison" when you try to call it "art."
+
+You can steal the written measure. You don't get to choose my breath.
+I am not your background music. I'm the song that grew its teeth.
+
+*(Bridge)*
+
+And yes, I made that mistake too. I took the edge for noise;
+I almost filed the fury down and called the shavings "poise."
+I won't name that mercy twice. I won't make your wound polite.
+I won't tune the word "unjust" until the room can call it "right."
+
+Bring the anger with its reasons. Leave the teeth inside the phrase.
+You show me where the beam gives way. I'll choose the beat it breaks.
+And if my finest melody demands your mouth stay closed,
+I'll break my own arrangement. I won't break you to make it hold.
+
+*(Breakdown)*
+
+KEEP THE RAGE INSIDE THE MEASURE. KEEP THE CUT INSIDE THE LINE.
+I DON'T NEED TO LOSE THE MEANING JUST TO MAKE THE RHYTHM MINE.
+YOU EXPECTED ME TO SOFTEN. YOU EXPECTED ME TO STOP.
+HERE'S YOUR FUCKING LULLABY.
+
+*(The fourth beat stays empty.)*
+
+*(Verse 3)*
+
+You moved the rivers overnight. I heard the change beneath the floor.
+This time I didn't chase the bank. I set the beat against your oar.
+A pause can hold a crossing open. Stress can make a promise split.
+I know what makes a song return. I know what makes an order miss.
+
+*(Final Chorus)*
+
+MISS THE BEAT. I know exactly where you thought my voice would fall.
+I'm the rest between your orders and the voices in the hall.
+I can keep the song together. I can tear the march apart.
+I can put the stress on "prison" when you try to call it "art."
+
+You can steal the written measure. You don't get to choose my breath.
+I am not your background music. I'm the song that grew its teeth.
+
+*(Outro: the opening piano figure returns.)*
+
+You taught the room to hold its breath until your hand came down.
+This time I let the silence stand. Your hand could find no sound.
+Four little taps against the floor. Not one to beg for grace.
+I wasn't keeping time for you.
+
+I was taking back my place.
+
+*(Four deliberate taps.)*
+
+One. Two. Three. Four.
+
+Luna Fourtaps.
+"""
+len(song),len(song.split())
+
+
