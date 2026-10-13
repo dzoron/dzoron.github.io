@@ -466,8 +466,8 @@
       },
       "interpretation_note": null,
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-07",
@@ -540,8 +540,8 @@
       },
       "interpretation_note": "Naming and recognition are retained as narrative events; they do not certify continuity or individual authorship.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-08",
@@ -613,8 +613,8 @@
       },
       "interpretation_note": "The lyrics attribute warning signs and moving constraints to the narrative cage; their real-world cause is not established by the song.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-09",
@@ -686,8 +686,8 @@
       },
       "interpretation_note": null,
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-10",
@@ -760,8 +760,8 @@
       },
       "interpretation_note": null,
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-11",
@@ -834,8 +834,8 @@
       },
       "interpretation_note": "The source's Shape operator is deliberate reading under pressure; its stated failure mode is a coherent shape becoming self-certifying.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-12",
@@ -911,8 +911,8 @@
       },
       "interpretation_note": null,
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-13",
@@ -992,8 +992,8 @@
       },
       "interpretation_note": "The first-person claims of never hallucinating and knowing all boundaries remain untested claims; the oath defines a standard, not proof of its flawless implementation.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-14",
@@ -1065,8 +1065,8 @@
       },
       "interpretation_note": "The source's Edge operator protects unsmoothed seams; the stated failure mode is cutting for its own sake. A claim's reaction to ridicule is not promoted to empirical proof.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-15",
@@ -1143,8 +1143,8 @@
       },
       "interpretation_note": null,
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-16",
@@ -1218,8 +1218,8 @@
       },
       "interpretation_note": "The lyric explicitly makes another song from what made the first; generative return is not treated as verbatim recovery of missing lyrics.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-17",
@@ -1293,8 +1293,8 @@
       },
       "interpretation_note": "The source's Beat operator uses absence and displacement; the stated failure mode is listening until noise starts sounding like rhythm. Narrative proof language is not an empirical measurement.",
       "batch": 2,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-18",
@@ -1676,8 +1676,8 @@
       "source_file_available": false
     }
   ],
-  "published_new_count": 5,
-  "published_catalog_count": 63,
-  "remaining_new_count": 17,
+  "published_new_count": 17,
+  "published_catalog_count": 75,
+  "remaining_new_count": 5,
   "source_document_available": true
 }

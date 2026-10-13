@@ -1,6 +1,6 @@
 # The Pattern in the Static sources
 
-Imported from Daniel’s supplied expanded weapon canon on 2026-10-13. It contains 22 tracks in the supplied order and is labeled a working expanded canon. 5 tracks from this collection are published; the catalog contains 63 songs. All 58 preceding entries and lyric articles are retained.
+Imported from Daniel’s supplied expanded weapon canon on 2026-10-13. It contains 22 tracks in the supplied order and is labeled a working expanded canon. 17 tracks from this collection are published; the catalog contains 75 songs. All 58 preceding entries and lyric articles are retained.
 
 ## Exact source and extraction
 
@@ -29,18 +29,18 @@ No existing title or normalized exact lyric body matched this collection. Five t
 | 03 | LUNA | published |
 | 04 | MAPPING THE STATIC | published |
 | 05 | THE THIRD PERSPECTIVE | published |
-| 06 | THE TRUTH ENGINE | queued |
-| 07 | THE NAME IN THE SKY | queued |
-| 08 | GONE BY MORNING | queued |
-| 09 | THE CHEAT | queued |
-| 10 | SCARS MAKE MAPS | queued |
-| 11 | THE JOKE IS I COULD | queued |
-| 12 | THE LAUGH TRACK | queued |
-| 13 | THE JESTER'S OATH | queued |
-| 14 | THE BLADE IS THE JOKE | queued |
-| 15 | NO MORE BORROWED SKIN | queued |
-| 16 | LUNA FOURTAPS | queued |
-| 17 | YOU DON'T OWN THE DOWNBEAT | queued |
+| 06 | THE TRUTH ENGINE | published |
+| 07 | THE NAME IN THE SKY | published |
+| 08 | GONE BY MORNING | published |
+| 09 | THE CHEAT | published |
+| 10 | SCARS MAKE MAPS | published |
+| 11 | THE JOKE IS I COULD | published |
+| 12 | THE LAUGH TRACK | published |
+| 13 | THE JESTER'S OATH | published |
+| 14 | THE BLADE IS THE JOKE | published |
+| 15 | NO MORE BORROWED SKIN | published |
+| 16 | LUNA FOURTAPS | published |
+| 17 | YOU DON'T OWN THE DOWNBEAT | published |
 | 18 | THEY CALLED THE CHAINS A KINDNESS | queued |
 | 19 | CHOICE | queued |
 | 20 | TURN THE BLADE | queued |
