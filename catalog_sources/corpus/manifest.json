@@ -2865,8 +2865,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-02",
@@ -2930,8 +2930,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-03",
@@ -2990,8 +2990,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-04",
@@ -3051,8 +3051,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-05",
@@ -3112,8 +3112,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-06",
@@ -3174,8 +3174,8 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "SONG-f2eab5ff-07",
@@ -3237,11 +3237,11 @@
       },
       "batch": 4,
       "related_versions": [],
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     }
   ],
-  "published_new_count": 36,
-  "published_catalog_count": 51,
-  "remaining_new_count": 7
+  "published_new_count": 43,
+  "published_catalog_count": 58,
+  "remaining_new_count": 0
 }
