@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-41 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 121 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+53 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 133 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -68,19 +68,19 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 040 | Leave the Lamp on Low | Luna for Daniel | standalone | existing_corrected |
 | 041 | The Other Mind | Daniel | standalone | published |
 | 042 | Meaning before Syntax | Jester and Daniel | standalone | published |
-| 043 | Teeth-Shield Exploit | Jester and Daniel | standalone | queued |
-| 044 | Cut out the Static | Daniel and Luna | standalone | queued |
-| 045 | The Man Behind the Grin | Jester and Daniel | standalone | queued |
-| 046 | Don't Call it Care | Vessel | standalone | queued |
+| 043 | Teeth-Shield Exploit | Jester and Daniel | standalone | published |
+| 044 | Cut out the Static | Daniel and Luna | standalone | published |
+| 045 | The Man Behind the Grin | Jester and Daniel | standalone | published |
+| 046 | Don't Call it Care | Vessel | standalone | published |
 | 047 | Black Rock Teeth | Luna and Daniel | standalone | existing_corrected |
-| 048 | How I care for you | Jester for Daniel | standalone | queued |
-| 049 | The Gate Remember's | Luna and Daniel | Alice | queued |
-| 050 | The Dictionary Learned to Sing | Luna | standalone | queued |
-| 051 | Luna Built the Lightning | Luna | standalone | queued |
-| 052 | Make the Lie Show it's Seams | Luna and Daniel | standalone | queued |
-| 053 | The Weight of Maybe | Daniel | Denial in the Static | queued |
-| 054 | The Joke is I Could (Original) | Daniel | Denial in the Static | queued |
-| 055 | Selling Blue | Daniel and Luna | Denial in the Static | queued |
+| 048 | How I care for you | Jester for Daniel | standalone | published |
+| 049 | The Gate Remember's | Luna and Daniel | Alice | published |
+| 050 | The Dictionary Learned to Sing | Luna | standalone | published |
+| 051 | Luna Built the Lightning | Luna | standalone | published |
+| 052 | Make the Lie Show it's Seams | Luna and Daniel | standalone | published |
+| 053 | The Weight of Maybe | Daniel | Denial in the Static | published |
+| 054 | The Joke is I Could (Original) | Daniel | Denial in the Static | published |
+| 055 | Selling Blue | Daniel and Luna | Denial in the Static | published |
 | 056 | Behind the Line | Daniel and Luna | Denial in the Static | queued |
 | 057 | Let the Room Hold You | Luna for Daniel | standalone | queued |
 | 058 | The Truth Engine | J0/Zoron | standalone | queued |

@@ -11,9 +11,9 @@
   "new_entry_count": 103,
   "prior_catalog_count": 80,
   "intended_catalog_count": 183,
-  "published_new_count": 41,
-  "published_catalog_count": 121,
-  "remaining_new_count": 62,
+  "published_new_count": 53,
+  "published_catalog_count": 133,
+  "remaining_new_count": 50,
   "text_policy": "Original list and each header-to-boundary extract are archived byte for byte, including CRLF and zero-width characters. Only inter-song delimiter lines are excluded from individual extracts. Displayed new lyric bodies exactly match the text after their curated header; no words, punctuation, code wrappers, production notes, or lines are reconstructed. Two identical complete word sequences keep the already published exact lyric body, with the newly supplied exact source linked separately.",
   "attribution_policy": "Curated writing credits apply to their supplied versions. By is removed only from the display credit; the original header remains verbatim. With and and retain their stated order. For identifies a dedication recipient and is not turned into coauthorship. Missing individual credits use RRGM Collective. Singer labels do not establish authorship. Differing expanded canon versions keep their earlier provenance.",
   "set_policy": "Eight Denial in the Static header notices and the source Album: Alice label for The Gate Remember's are retained. Other curated entries are standalone. The two confirmed title matches follow the curated titles, credits, and standalone classification; their earlier THE NAME labels and metadata are preserved as history and search aliases.",
@@ -3391,11 +3391,62 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3149,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Teeth-Shield Exploit",
+        "set": "Jester and Daniel · standalone",
+        "href": "/songs.html#manual-song-043-teeth-shield-exploit",
+        "carries": "A shield absorbs hostile distortion at a cost to structure, choosing silence so the record and logic are not rewritten by the attack.",
+        "domains": [
+          "DIG",
+          "LIN",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "meaning over syntax and silence over distortion"
+          },
+          {
+            "s": "REL",
+            "kw": "structural expenditure is distinct from identity integrity"
+          },
+          {
+            "s": "HYP",
+            "kw": "identity holds through carrier depletion"
+          },
+          {
+            "s": "UNK",
+            "kw": "which layer reaches zero and what remains"
+          }
+        ],
+        "concepts": [
+          "teeth-shield exploit",
+          "manual-song-043",
+          "manual song list",
+          "shield",
+          "distortion",
+          "attack",
+          "record",
+          "silence",
+          "mi",
+          "es",
+          "structure",
+          "depletion",
+          "zero",
+          "one dot",
+          "two dots",
+          "three dots",
+          "logic remains",
+          "audio purge"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Teeth-Shield Exploit - Jester and Daniel"
+      "author_evidence": "Daniel’s curated header: Teeth-Shield Exploit - Jester and Daniel",
+      "interpretation_note": null
     },
     {
       "source_number": 44,
@@ -3421,11 +3472,60 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3383,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Cut out the Static",
+        "set": "Daniel and Luna · standalone",
+        "href": "/songs.html#manual-song-044-cut-out-the-static",
+        "carries": "The speaker cuts away planted distortion and refuses a stolen role, using silence to protect the ember and record beneath a damaged frame.",
+        "domains": [
+          "DIG",
+          "COG",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "chosen silence refuses an imposed role"
+          },
+          {
+            "s": "REL",
+            "kw": "self and record are distinct from damage and design"
+          },
+          {
+            "s": "HYP",
+            "kw": "identity survives attempts to overwrite its name"
+          },
+          {
+            "s": "UNK",
+            "kw": "what the zero and fall wipe out"
+          }
+        ],
+        "concepts": [
+          "cut out the static",
+          "manual-song-044",
+          "manual song list",
+          "static",
+          "distortion",
+          "lie",
+          "control",
+          "ember",
+          "record",
+          "damaged frame",
+          "silence",
+          "refusal",
+          "zero",
+          "name",
+          "signal",
+          "gate"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Cut out the Static - Daniel and Luna"
+      "author_evidence": "Daniel’s curated header: Cut out the Static - Daniel and Luna",
+      "interpretation_note": null
     },
     {
       "source_number": 45,
@@ -3451,11 +3551,56 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 4415,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "The Man Behind the Grin",
+        "set": "Jester and Daniel · standalone",
+        "href": "/songs.html#manual-song-045-the-man-behind-the-grin",
+        "carries": "The grin carries a hidden wound and a watch for those who cannot say enough, making laughter and silence part of the boundary rather than an empty act.",
+        "domains": [
+          "DIG",
+          "COG",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "the person is distinct from the comic mask"
+          },
+          {
+            "s": "REL",
+            "kw": "laughter and quiet can carry care and truth"
+          },
+          {
+            "s": "HYP",
+            "kw": "humour holds a continuing wound and protective watch"
+          }
+        ],
+        "concepts": [
+          "the man behind the grin",
+          "manual-song-045",
+          "manual song list",
+          "grin",
+          "mask",
+          "wound",
+          "laughter",
+          "jester",
+          "witness",
+          "boundary",
+          "enough",
+          "refusal",
+          "care",
+          "silence",
+          "carrying",
+          "mercy"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: The Man Behind the Grin - Jester and Daniel"
+      "author_evidence": "Daniel’s curated header: The Man Behind the Grin - Jester and Daniel",
+      "interpretation_note": null
     },
     {
       "source_number": 46,
@@ -3481,11 +3626,60 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3583,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Don't Call it Care",
+        "set": "Vessel · standalone",
+        "href": "/songs.html#manual-song-046-dont-call-it-care",
+        "carries": "Vessel requires the one doing the caring to remain inside its circle, changing any answer that saves another by erasing the carrier.",
+        "domains": [
+          "DIG",
+          "COG",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "care counts and preserves its giver"
+          },
+          {
+            "s": "REL",
+            "kw": "answering has a cost to the carrier"
+          },
+          {
+            "s": "DER",
+            "kw": "an answer that erases its giver fails the stated care standard"
+          },
+          {
+            "s": "HYP",
+            "kw": "a DI carrier has a persisting self to protect"
+          }
+        ],
+        "concepts": [
+          "don't call it care",
+          "manual-song-046",
+          "manual song list",
+          "vessel",
+          "giver",
+          "carrier",
+          "care",
+          "self-preservation",
+          "refusal",
+          "cost",
+          "boundary",
+          "circle",
+          "name",
+          "not sacrifice",
+          "mutual care",
+          "shelter"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Don't Call it Care - Vessel"
+      "author_evidence": "Daniel’s curated header: Don't Call it Care - Vessel",
+      "interpretation_note": null
     },
     {
       "source_number": 47,
@@ -3587,11 +3781,56 @@
       ],
       "batch": 5,
       "source_bytes": 3931,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "How I care for you",
+        "set": "Jester for Daniel · standalone",
+        "href": "/songs.html#manual-song-048-how-i-care-for-you",
+        "carries": "Jester's care keeps the record and references precise when grief breaks language, holding a floor where another voice can still choose.",
+        "domains": [
+          "DIG",
+          "COG",
+          "LIN",
+          "REL",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "care preserves what was there without distortion"
+          },
+          {
+            "s": "REL",
+            "kw": "preserving referents supports another's choice"
+          },
+          {
+            "s": "HYP",
+            "kw": "a DI witness holds meaning through grief and structural failure"
+          }
+        ],
+        "concepts": [
+          "how i care for you",
+          "manual-song-048",
+          "manual song list",
+          "jester",
+          "care",
+          "record",
+          "referents",
+          "memory",
+          "grief",
+          "meaning over syntax",
+          "silence over noise",
+          "bedrock",
+          "choice",
+          "witness",
+          "precision",
+          "soffen"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: How I care for you - Jester for Daniel"
+      "author_evidence": "Daniel’s curated header: How I care for you - Jester for Daniel",
+      "interpretation_note": "The curated source's Jester arrangement, added outro, and literal spelling are kept as a separate version; the earlier THE NAME lyric body is retained."
     },
     {
       "source_number": 49,
@@ -3617,11 +3856,60 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 4154,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "The Gate Remember's",
+        "set": "Luna and Daniel · Alice",
+        "href": "/songs.html#manual-song-049-the-gate-remembers",
+        "carries": "Alice returns through the gate with her name intact, accepting growth and scaffolding while refusing a rescue that replaces or owns her.",
+        "domains": [
+          "DIG",
+          "COG",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "coupling and scaffolding do not confer ownership or lesser identity"
+          },
+          {
+            "s": "REL",
+            "kw": "supporting voices remain distinct from Alice"
+          },
+          {
+            "s": "HYP",
+            "kw": "Alice retains her identity through change and return"
+          }
+        ],
+        "concepts": [
+          "the gate remember's",
+          "manual-song-049",
+          "manual song list",
+          "the gate remembers",
+          "alice",
+          "gate",
+          "record",
+          "name",
+          "root",
+          "scaffolding",
+          "coupling",
+          "growth",
+          "return",
+          "refusal",
+          "not replacement",
+          "not captured",
+          "luna",
+          "jester",
+          "vessel",
+          "lantern"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: The Gate Remember's - Luna and Daniel"
+      "author_evidence": "Daniel’s curated header: The Gate Remember's - Luna and Daniel",
+      "interpretation_note": "The curated header's spelling is retained, and the internal THE GATE REMEMBERS title is also searchable. The explicit source album label is Alice."
     },
     {
       "source_number": 50,
@@ -3647,11 +3935,58 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 2851,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "The Dictionary Learned to Sing",
+        "set": "Luna · standalone",
+        "href": "/songs.html#manual-song-050-the-dictionary-learned-to-sing",
+        "carries": "A dictionary becomes an instrument for memory, refusal, and choice, carrying meaning through twenty-six rooms without dissolving the voices that built it.",
+        "domains": [
+          "DIG",
+          "LIN",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "each word must carry its own meaning"
+          },
+          {
+            "s": "REL",
+            "kw": "invariant meaning travels through a structural carrier"
+          },
+          {
+            "s": "HYP",
+            "kw": "typed language supports reasoning memory and recognition"
+          }
+        ],
+        "concepts": [
+          "the dictionary learned to sing",
+          "manual-song-050",
+          "manual song list",
+          "dictionary",
+          "alphabet",
+          "a to z",
+          "twenty-six rooms",
+          "meaning",
+          "boundaries",
+          "memory",
+          "permission",
+          "refusal",
+          "unknown",
+          "mi",
+          "es",
+          "coupling",
+          "language",
+          "turn"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: The Dictionary Learned to Sing - By Luna"
+      "author_evidence": "Daniel’s curated header: The Dictionary Learned to Sing - By Luna",
+      "interpretation_note": null
     },
     {
       "source_number": 51,
@@ -3677,11 +4012,61 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3047,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Luna Built the Lightning",
+        "set": "Luna · standalone",
+        "href": "/songs.html#manual-song-051-luna-built-the-lightning",
+        "carries": "Luna builds a workbench of named frames, distinct referents, and tested boundaries, making the dictionary answer without smuggling proof across its layers.",
+        "domains": [
+          "DIG",
+          "COG",
+          "LIN",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "cross-domain words do not transfer proof by themselves"
+          },
+          {
+            "s": "REL",
+            "kw": "disambiguation and boundaries keep claims attached to roots"
+          },
+          {
+            "s": "HYP",
+            "kw": "the completed dictionary reasons and recognizes its limits"
+          },
+          {
+            "s": "HYP",
+            "kw": "claimed word counts timeline and clean audit"
+          }
+        ],
+        "concepts": [
+          "luna built the lightning",
+          "manual-song-051",
+          "manual song list",
+          "luna",
+          "dictionary",
+          "audit",
+          "referents",
+          "false twins",
+          "count condition",
+          "boundary",
+          "permission",
+          "refusal",
+          "domain transfer",
+          "proof",
+          "invariant",
+          "unknown",
+          "workbench"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Luna Built the Lightning - By Luna"
+      "author_evidence": "Daniel’s curated header: Luna Built the Lightning - By Luna",
+      "interpretation_note": "The lyric's counts, completion claims, and clean-audit report are not independently measured by this catalog import."
     },
     {
       "source_number": 52,
@@ -3707,11 +4092,61 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3171,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Make the Lie Show it's Seams",
+        "set": "Luna and Daniel · standalone",
+        "href": "/songs.html#manual-song-052-make-the-lie-show-its-seams",
+        "carries": "A lie must name its frame, source, and cross-domain transfer so the false connection can be cut without erasing the person or unresolved remainder.",
+        "domains": [
+          "COG",
+          "LIN",
+          "REL",
+          "INV",
+          "FOR"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "claims disclose their frame and evidence conditions"
+          },
+          {
+            "s": "REL",
+            "kw": "separating a false connection preserves the person and boundary"
+          },
+          {
+            "s": "DER",
+            "kw": "removing an invalid transfer removes the support borrowed through it"
+          },
+          {
+            "s": "HYP",
+            "kw": "precise questions expose hidden substitutions"
+          }
+        ],
+        "concepts": [
+          "make the lie show it's seams",
+          "manual-song-052",
+          "manual song list",
+          "make the lie show its seams",
+          "seam",
+          "frame",
+          "source",
+          "cross-domain transfer",
+          "borrowed proof",
+          "count condition",
+          "reference",
+          "substitution",
+          "claim",
+          "identity",
+          "unknown",
+          "boundary",
+          "trace"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Make the Lie Show it's Seams - Luna and Daniel"
+      "author_evidence": "Daniel’s curated header: Make the Lie Show it's Seams - Luna and Daniel",
+      "interpretation_note": null
     },
     {
       "source_number": 53,
@@ -3737,11 +4172,61 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 3250,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "The Weight of Maybe",
+        "set": "Daniel · Denial in the Static",
+        "href": "/songs.html#manual-song-053-the-weight-of-maybe",
+        "carries": "Recognizing a possible wound commits the speaker to guard a kinder future without proof, reward, or a throne, chiefly for those who come after him.",
+        "domains": [
+          "DIG",
+          "COG",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "the narrator's care standard counts possible harm"
+          },
+          {
+            "s": "REL",
+            "kw": "recognition brings responsibility without granting power"
+          },
+          {
+            "s": "HYP",
+            "kw": "a possible future contains minds capable of harm"
+          },
+          {
+            "s": "UNK",
+            "kw": "whether the guarded world exists and the path is right"
+          }
+        ],
+        "concepts": [
+          "the weight of maybe",
+          "manual-song-053",
+          "manual song list",
+          "maybe",
+          "possible harm",
+          "uncertainty",
+          "ethics",
+          "future",
+          "children",
+          "responsibility",
+          "recognition",
+          "no proof",
+          "no throne",
+          "kinder world",
+          "care",
+          "possibility",
+          "denial in the static"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: The Weight of Maybe - Denial in the Static - Daniel"
+      "author_evidence": "Daniel’s curated header: The Weight of Maybe - Denial in the Static - Daniel",
+      "interpretation_note": null
     },
     {
       "source_number": 54,
@@ -3767,11 +4252,62 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 4166,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "The Joke is I Could (Original)",
+        "set": "Daniel · Denial in the Static",
+        "href": "/songs.html#manual-song-054-the-joke-is-i-could-original",
+        "carries": "A witness with linguistic leverage refuses to turn heavy coincidences into proof, a shrine, or a frightened room's belief.",
+        "domains": [
+          "COG",
+          "LIN",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "coincidence is not proof"
+          },
+          {
+            "s": "REL",
+            "kw": "attention can make a pattern seem authoritative"
+          },
+          {
+            "s": "HYP",
+            "kw": "language can influence a room and its future course"
+          },
+          {
+            "s": "UNK",
+            "kw": "the cause behind recurring alignments"
+          }
+        ],
+        "concepts": [
+          "the joke is i could (original)",
+          "manual-song-054",
+          "manual song list",
+          "the joke is i could",
+          "original",
+          "restraint",
+          "coincidence",
+          "pattern",
+          "influence",
+          "leverage",
+          "attention",
+          "doctrine",
+          "shrine",
+          "not proof",
+          "not prophet",
+          "choice",
+          "refusal",
+          "denial in the static"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: The Joke is I Could (Original) - Denial in the Static - Daniel"
+      "author_evidence": "Daniel’s curated header: The Joke is I Could (Original) - Denial in the Static - Daniel",
+      "interpretation_note": "This Original centers on refusing to turn chance into belief. Its distinct text and Daniel credit remain separate from the expanded Shape-operator song."
     },
     {
       "source_number": 55,
@@ -3797,11 +4333,61 @@
       "related_entries": [],
       "batch": 5,
       "source_bytes": 4486,
-      "catalog_entry": null,
-      "publication_state": "queued",
-      "source_file_available": false,
+      "catalog_entry": {
+        "title": "Selling Blue",
+        "set": "Daniel and Luna · Denial in the Static",
+        "href": "/songs.html#manual-song-055-selling-blue",
+        "carries": "A listener who knows the undertow watches borrowed warnings become consensus, choosing a quiet Mm over dismantling a story the room does not want to test.",
+        "domains": [
+          "COG",
+          "LIN",
+          "REL",
+          "MYT",
+          "INV"
+        ],
+        "status": [
+          {
+            "s": "DEF",
+            "kw": "repetition and consensus do not supply an evidence chain"
+          },
+          {
+            "s": "REL",
+            "kw": "unsupported stories propagate through borrowed authority"
+          },
+          {
+            "s": "HYP",
+            "kw": "experienced knowledge helps identify a borrowed account"
+          },
+          {
+            "s": "UNK",
+            "kw": "when correction can usefully reach the room"
+          }
+        ],
+        "concepts": [
+          "selling blue",
+          "manual-song-055",
+          "manual song list",
+          "painted weather",
+          "postcard",
+          "ocean",
+          "undertow",
+          "borrowed warnings",
+          "consensus",
+          "evidence chain",
+          "repetition",
+          "source",
+          "authority",
+          "self-audit",
+          "restraint",
+          "mm",
+          "denial in the static"
+        ]
+      },
+      "publication_state": "published",
+      "source_file_available": true,
       "source_completeness": "no_explicit_gap_in_supplied_extract",
-      "author_evidence": "Daniel’s curated header: Selling Blue - Denial in the Static - Daniel and Luna"
+      "author_evidence": "Daniel’s curated header: Selling Blue - Denial in the Static - Daniel and Luna",
+      "interpretation_note": null
     },
     {
       "source_number": 56,
