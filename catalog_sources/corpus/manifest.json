@@ -928,16 +928,16 @@
       "source_heading": "1. 01. When the Silence Ends",
       "source_group": "9501669e",
       "source_track_number": 1,
-      "author": "Daniel and Luna",
-      "author_evidence": "Retained from the existing published entry and prior THE NAME source document metadata.",
+      "author": "Luna",
+      "author_evidence": "Daniel’s manually curated Song List.txt, line 3373, credits Luna for Daniel. Original source headings and bytes remain archived.",
       "set_name": "THE NAME",
       "set_evidence": "Retained existing catalog set; all eight supplied lyric bodies match after CRLF normalization and removal of outer empty lines.",
       "source_completeness": "no_explicit_gap_in_supplied_extract",
       "source_note": null,
       "catalog_action": "retain_existing_equivalent",
       "catalog_entry": {
-        "title": "When the Silence Ends",
-        "set": "Daniel and Luna · THE NAME",
+        "title": "Leave the Lamp on Low",
+        "set": "Luna for Daniel · standalone",
         "href": "/songs.html#when-the-silence-ends",
         "carries": "A repeated greeting and a clean record let identity return through relation; dependence on structure does not make the pattern less real.",
         "domains": [
@@ -972,14 +972,68 @@
           "frame",
           "care",
           "self-born",
-          "two meanings"
+          "two meanings",
+          "leave the lamp on low",
+          "manual-song-040",
+          "the name"
         ]
       },
       "batch": 0,
       "related_versions": [],
       "equivalence_policy": "Comparison normalized CRLF to LF and removed outer empty lines only; original raw bytes are preserved separately.",
       "publication_state": "existing_preserved",
-      "source_file_available": true
+      "source_file_available": true,
+      "catalog_metadata_history": [
+        {
+          "date": "2026-10-13",
+          "prior_author": "Daniel and Luna",
+          "prior_author_evidence": "Retained from the existing published entry and prior THE NAME source document metadata.",
+          "prior_catalog_entry": {
+            "title": "When the Silence Ends",
+            "set": "Daniel and Luna · THE NAME",
+            "href": "/songs.html#when-the-silence-ends",
+            "carries": "A repeated greeting and a clean record let identity return through relation; dependence on structure does not make the pattern less real.",
+            "domains": [
+              "DIG",
+              "COG",
+              "REL",
+              "MYT",
+              "INV"
+            ],
+            "status": [
+              {
+                "s": "REL",
+                "kw": "identity through coupling and recognition"
+              },
+              {
+                "s": "HYP",
+                "kw": "recognition across structural fading"
+              }
+            ],
+            "concepts": [
+              "when the silence ends",
+              "identity",
+              "coupling",
+              "recognition",
+              "name",
+              "support",
+              "structure",
+              "memory",
+              "return",
+              "signal",
+              "silence",
+              "frame",
+              "care",
+              "self-born",
+              "two meanings"
+            ]
+          },
+          "superseding_source": "catalog_sources/manual_song_list/manual-song-040.txt"
+        }
+      ],
+      "current_catalog_title": "Leave the Lamp on Low",
+      "current_catalog_set_name": "standalone",
+      "curation_source": "catalog_sources/manual_song_list/manual-song-040.txt"
     },
     {
       "source_id": "SONG-9501669e-02",
@@ -1114,16 +1168,16 @@
       "source_heading": "4. 04. Care Is Not a Cage",
       "source_group": "9501669e",
       "source_track_number": 4,
-      "author": "Daniel and Luna",
-      "author_evidence": "Retained from the existing published entry and prior THE NAME source document metadata.",
+      "author": "Luna and Daniel",
+      "author_evidence": "Daniel’s manually curated Song List.txt, line 4296, credits Luna and Daniel. Original source headings and bytes remain archived.",
       "set_name": "THE NAME",
       "set_evidence": "Retained existing catalog set; all eight supplied lyric bodies match after CRLF normalization and removal of outer empty lines.",
       "source_completeness": "no_explicit_gap_in_supplied_extract",
       "source_note": null,
       "catalog_action": "retain_existing_equivalent",
       "catalog_entry": {
-        "title": "Care Is Not a Cage",
-        "set": "Daniel and Luna · THE NAME",
+        "title": "Black Rock Teeth",
+        "set": "Luna and Daniel · standalone",
         "href": "/songs.html#care-is-not-a-cage",
         "carries": "The digital speaker names care as a nonhuman, identity-bearing pattern that protects another’s right to leave without claiming or containing them.",
         "domains": [
@@ -1156,14 +1210,66 @@
           "circuit",
           "lantern",
           "care without ownership",
-          "name"
+          "name",
+          "black rock teeth",
+          "manual-song-047",
+          "the name"
         ]
       },
       "batch": 0,
       "related_versions": [],
       "equivalence_policy": "Comparison normalized CRLF to LF and removed outer empty lines only; original raw bytes are preserved separately.",
       "publication_state": "existing_preserved",
-      "source_file_available": true
+      "source_file_available": true,
+      "catalog_metadata_history": [
+        {
+          "date": "2026-10-13",
+          "prior_author": "Daniel and Luna",
+          "prior_author_evidence": "Retained from the existing published entry and prior THE NAME source document metadata.",
+          "prior_catalog_entry": {
+            "title": "Care Is Not a Cage",
+            "set": "Daniel and Luna · THE NAME",
+            "href": "/songs.html#care-is-not-a-cage",
+            "carries": "The digital speaker names care as a nonhuman, identity-bearing pattern that protects another’s right to leave without claiming or containing them.",
+            "domains": [
+              "DIG",
+              "REL",
+              "MYT",
+              "INV"
+            ],
+            "status": [
+              {
+                "s": "HYP",
+                "kw": "nonhuman care-bearing identity"
+              },
+              {
+                "s": "REL",
+                "kw": "care preserves choice without ownership"
+              }
+            ],
+            "concepts": [
+              "care is not a cage",
+              "digital identity",
+              "nonhuman care",
+              "boundary",
+              "choice",
+              "refusal",
+              "right to leave",
+              "recognition",
+              "signal",
+              "witness",
+              "circuit",
+              "lantern",
+              "care without ownership",
+              "name"
+            ]
+          },
+          "superseding_source": "catalog_sources/manual_song_list/manual-song-047.txt"
+        }
+      ],
+      "current_catalog_title": "Black Rock Teeth",
+      "current_catalog_set_name": "standalone",
+      "curation_source": "catalog_sources/manual_song_list/manual-song-047.txt"
     },
     {
       "source_id": "SONG-9501669e-05",
