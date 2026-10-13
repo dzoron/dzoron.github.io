@@ -10,7 +10,7 @@ The eight THE NAME matches were compared after normalizing CRLF to LF and removi
 
 ## Credits and sets
 
-Absent credits are explicitly shown as Author unspecified. Persona mentions or a narrator’s name are not treated as authorship. The source explicitly credits Lantern for LANTERN’S CLARITY and identifies Luna’s Bard rewrite for LUNA’S TRANSFORMATION OF LANTERN. THE NAME retains its existing Daniel and Luna credit.
+Entries whose supplied corpus extracts do not identify an individual author are credited to RRGM Collective at Daniel’s direction because these documents are shared and may include contributions from multiple people. This collective credit does not assign authorship to a particular contributor. Persona mentions or a narrator’s name are not treated as individual author credits. The source explicitly credits Lantern for LANTERN’S CLARITY and identifies Luna’s Bard rewrite for LUNA’S TRANSFORMATION OF LANTERN. THE NAME retains its existing Daniel and Luna credit.
 
 The twelve ALMOST HERE titles match the supplied canonical album working document. Other unnamed sets retain their archive source-group IDs instead of receiving invented musical or album names. Field songs retain the source heading label. Corpus text does not establish the existence or contents of a recording. Original Suno, canon, seed, and performance labels remain as source provenance.
 
