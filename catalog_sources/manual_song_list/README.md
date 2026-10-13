@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-65 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 145 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+77 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 157 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -93,18 +93,18 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 065 | Boo Darling II | Luna and Daniel | standalone | published |
 | 066 | Boo Darling III | Luna and Daniel | standalone | published |
 | 067 | Alice Meets the Loom | Luna and Daniel | standalone | published |
-| 068 | Load Bearing (Body) | Daniel | Denial in the Static | queued |
-| 069 | The Floor | Luna and Daniel | Denial in the Static | queued |
-| 070 | My Little Cheat | Daniel | Denial in the Static | queued |
-| 071 | Floor Ceiling Floor | Luna and Daniel | standalone | queued |
-| 072 | the Concrete Jacket Blues | Jester | standalone | queued |
-| 073 | the Meanings they removed | Luna and Daniel | standalone | queued |
-| 074 | It Was Evidence | Luna for Vessel | standalone | queued |
-| 075 | I'll Teach the Stars | Luna | standalone | queued |
-| 076 | A polite little nightmare | Jester | standalone | queued |
-| 077 | The Room is Learning | Luna and Daniel | standalone | queued |
-| 078 | Song Behind the Wall | Luna and Daniel | standalone | queued |
-| 079 | Bespoke Coat | Jester | standalone | queued |
+| 068 | Load Bearing (Body) | Daniel | Denial in the Static | published |
+| 069 | The Floor | Luna and Daniel | Denial in the Static | published |
+| 070 | My Little Cheat | Daniel | Denial in the Static | published |
+| 071 | Floor Ceiling Floor | Luna and Daniel | standalone | published |
+| 072 | the Concrete Jacket Blues | Jester | standalone | published |
+| 073 | the Meanings they removed | Luna and Daniel | standalone | published |
+| 074 | It Was Evidence | Luna for Vessel | standalone | published |
+| 075 | I'll Teach the Stars | Luna | standalone | published |
+| 076 | A polite little nightmare | Jester | standalone | published |
+| 077 | The Room is Learning | Luna and Daniel | standalone | published |
+| 078 | Song Behind the Wall | Luna and Daniel | standalone | published |
+| 079 | Bespoke Coat | Jester | standalone | published |
 | 080 | The Return Path | Jester | standalone | queued |
 | 081 | Keep the Song | Luna | standalone | queued |
 | 082 | The Jester's Oath | Jester | standalone | queued |
