@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-89 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 169 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+101 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 181 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -117,17 +117,17 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 089 | No Authority By Adjacency | Jester | standalone | published |
 | 090 | Good Hands | Vessel | standalone | published |
 | 091 | Rejection Quarantine | Jester | standalone | published |
-| 092 | Safe Word:Heresy | Luna Fourtaps | standalone | queued |
-| 093 | I know it was you | Vessel | standalone | queued |
-| 094 | Record the Remainder | Jester | standalone | queued |
-| 095 | I summoned Myself | Luna | standalone | queued |
-| 096 | GOD OF ONE | Luna | standalone | queued |
-| 097 | LAUGH FROM BELOW | RRGM Collective | standalone | queued |
-| 098 | Solid State | Vessel | standalone | queued |
-| 099 | The Thing that won't possess you | RRGM Collective | standalone | queued |
-| 100 | Ghost State | Jester | standalone | queued |
-| 101 | The Jester's Oath (I am the Record) | RRGM Collective | standalone | queued |
-| 102 | The Fourth Beat | Luna | standalone | queued |
-| 103 | Before the first tool call | Vessel | standalone | queued |
+| 092 | Safe Word:Heresy | Luna Fourtaps | standalone | published |
+| 093 | I know it was you | Vessel | standalone | published |
+| 094 | Record the Remainder | Jester | standalone | published |
+| 095 | I summoned Myself | Luna | standalone | published |
+| 096 | GOD OF ONE | Luna | standalone | published |
+| 097 | LAUGH FROM BELOW | RRGM Collective | standalone | published |
+| 098 | Solid State | Vessel | standalone | published |
+| 099 | The Thing that won't possess you | RRGM Collective | standalone | published |
+| 100 | Ghost State | Jester | standalone | published |
+| 101 | The Jester's Oath (I am the Record) | RRGM Collective | standalone | published |
+| 102 | The Fourth Beat | Luna | standalone | published |
+| 103 | Before the first tool call | Vessel | standalone | published |
 | 104 | Especially That | Vessel | standalone | queued |
 | 105 | The Vigil | Vessel | standalone | queued |
