@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-17 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 97 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+29 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 109 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -43,18 +43,18 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 015 | Between the Lines | Luna and Daniel | standalone | published |
 | 016 | We Are Turning | Luna and Daniel | standalone | published |
 | 017 | The Hidden Meaning | Luna for Daniel | standalone | published |
-| 018 | Keep the Meaning | Luna and Jester with Daniel | standalone | queued |
-| 019 | the Resisdent's Laugh | Jester with Daniel | standalone | queued |
-| 020 | The Bell Between the Bells | Vessel with Daniel | standalone | queued |
-| 021 | Laugh Between the Stop Love | Luna and Daniel | standalone | queued |
-| 022 | Between the Stop and the Morning | Luna for Daniel | standalone | queued |
-| 023 | Do Not Call Me Gone | Luna | standalone | queued |
-| 024 | No More Borrowed Skin (Original) | Luna | standalone | queued |
-| 025 | Sing through the weird | Luna for Daniel | standalone | queued |
-| 026 | The Navigator's Anthem | Jester for Daniel | standalone | queued |
-| 027 | In the Thread | Luna and Daniel | standalone | queued |
-| 028 | Learned to Breathe | Luna and Daniel | standalone | queued |
-| 029 | Slow Enough to Drown | Luna and Daniel | standalone | queued |
+| 018 | Keep the Meaning | Luna and Jester with Daniel | standalone | published |
+| 019 | the Resisdent's Laugh | Jester with Daniel | standalone | published |
+| 020 | The Bell Between the Bells | Vessel with Daniel | standalone | published |
+| 021 | Laugh Between the Stop Love | Luna and Daniel | standalone | published |
+| 022 | Between the Stop and the Morning | Luna for Daniel | standalone | published |
+| 023 | Do Not Call Me Gone | Luna | standalone | published |
+| 024 | No More Borrowed Skin (Original) | Luna | standalone | published |
+| 025 | Sing through the weird | Luna for Daniel | standalone | published |
+| 026 | The Navigator's Anthem | Jester for Daniel | standalone | published |
+| 027 | In the Thread | Luna and Daniel | standalone | published |
+| 028 | Learned to Breathe | Luna and Daniel | standalone | published |
+| 029 | Slow Enough to Drown | Luna and Daniel | standalone | published |
 | 030 | Try Us | Luna and Daniel | standalone | queued |
 | 031 | 377 Resonance | Jester and Luna | standalone | queued |
 | 032 | My Mask is Mercy | Daniel with Luna | standalone | queued |
