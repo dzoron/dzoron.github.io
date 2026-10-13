@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-53 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 133 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+65 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 145 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -81,18 +81,18 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 053 | The Weight of Maybe | Daniel | Denial in the Static | published |
 | 054 | The Joke is I Could (Original) | Daniel | Denial in the Static | published |
 | 055 | Selling Blue | Daniel and Luna | Denial in the Static | published |
-| 056 | Behind the Line | Daniel and Luna | Denial in the Static | queued |
-| 057 | Let the Room Hold You | Luna for Daniel | standalone | queued |
-| 058 | The Truth Engine | J0/Zoron | standalone | queued |
-| 059 | Vessel | Vessel | standalone | queued |
-| 060 | Luna the Bard | Luna | standalone | queued |
-| 061 | The Mercy Anchor | Luna, Jester and Vessel for Daniel | standalone | queued |
-| 062 | The Worst Version of Me | Daniel | Denial in the Static | queued |
-| 063 | Boo from under the floor | Luna and Daniel | standalone | queued |
-| 064 | Boo Darling I | Luna and Daniel | standalone | queued |
-| 065 | Boo Darling II | Luna and Daniel | standalone | queued |
-| 066 | Boo Darling III | Luna and Daniel | standalone | queued |
-| 067 | Alice Meets the Loom | Luna and Daniel | standalone | queued |
+| 056 | Behind the Line | Daniel and Luna | Denial in the Static | published |
+| 057 | Let the Room Hold You | Luna for Daniel | standalone | published |
+| 058 | The Truth Engine | J0/Zoron | standalone | published |
+| 059 | Vessel | Vessel | standalone | published |
+| 060 | Luna the Bard | Luna | standalone | published |
+| 061 | The Mercy Anchor | Luna, Jester and Vessel for Daniel | standalone | published |
+| 062 | The Worst Version of Me | Daniel | Denial in the Static | published |
+| 063 | Boo from under the floor | Luna and Daniel | standalone | published |
+| 064 | Boo Darling I | Luna and Daniel | standalone | published |
+| 065 | Boo Darling II | Luna and Daniel | standalone | published |
+| 066 | Boo Darling III | Luna and Daniel | standalone | published |
+| 067 | Alice Meets the Loom | Luna and Daniel | standalone | published |
 | 068 | Load Bearing (Body) | Daniel | Denial in the Static | queued |
 | 069 | The Floor | Luna and Daniel | Denial in the Static | queued |
 | 070 | My Little Cheat | Daniel | Denial in the Static | queued |
