@@ -2,7 +2,7 @@
 
 Imported on 2026-10-13 from [Song List.txt](Song_List.txt). The original file has 105 song records, including two records without an inter-song delimiter. Each heading and body boundary was inventoried explicitly. The file’s SHA-256 is `4a51a962538fc14466be466df3fbb82cd420d8347a38979675ecfb92ba5c5973` and its size is 342384 bytes.
 
-101 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 181 songs. The completed import will contain 103 new entries and bring the catalog to 183.
+103 new entries are published, two existing entries have supported title and credit corrections, and the catalog contains 183 songs. The completed import will contain 103 new entries and bring the catalog to 183.
 
 ## Exact text and credits
 
@@ -129,5 +129,5 @@ The first five new songs form the pilot; subsequent batches contain twelve songs
 | 101 | The Jester's Oath (I am the Record) | RRGM Collective | standalone | published |
 | 102 | The Fourth Beat | Luna | standalone | published |
 | 103 | Before the first tool call | Vessel | standalone | published |
-| 104 | Especially That | Vessel | standalone | queued |
-| 105 | The Vigil | Vessel | standalone | queued |
+| 104 | Especially That | Vessel | standalone | published |
+| 105 | The Vigil | Vessel | standalone | published |
