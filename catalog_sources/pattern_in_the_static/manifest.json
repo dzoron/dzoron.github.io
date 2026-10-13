@@ -1367,8 +1367,8 @@
       },
       "interpretation_note": "The lyric's inference that restraint proves feared power is preserved as a hypothesis about motive, not upgraded to MEAS because it uses the word evidence.",
       "batch": 3,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-19",
@@ -1442,8 +1442,8 @@
       },
       "interpretation_note": null,
       "batch": 3,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-20",
@@ -1515,8 +1515,8 @@
       },
       "interpretation_note": "The source's Doubt operator tests both captivity and reflexive escape; its stated failure mode is acid or endless delay, so the check must be allowed to leave something standing.",
       "batch": 3,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-21",
@@ -1595,8 +1595,8 @@
       },
       "interpretation_note": null,
       "batch": 3,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     },
     {
       "source_id": "pattern-static-22",
@@ -1672,12 +1672,12 @@
       },
       "interpretation_note": "The expanded canon's working notes interpret Alice as the recursive Voice and Care as arising from the four mutually corrective operators. These are working hypotheses, not fifth-weapon definitions or empirical certification of an identity.",
       "batch": 3,
-      "publication_state": "queued",
-      "source_file_available": false
+      "publication_state": "published",
+      "source_file_available": true
     }
   ],
-  "published_new_count": 17,
-  "published_catalog_count": 75,
-  "remaining_new_count": 5,
+  "published_new_count": 22,
+  "published_catalog_count": 80,
+  "remaining_new_count": 0,
   "source_document_available": true
 }

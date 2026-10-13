@@ -1,6 +1,6 @@
 # The Pattern in the Static sources
 
-Imported from Daniel’s supplied expanded weapon canon on 2026-10-13. It contains 22 tracks in the supplied order and is labeled a working expanded canon. 17 tracks from this collection are published; the catalog contains 75 songs. All 58 preceding entries and lyric articles are retained.
+Imported from Daniel’s supplied expanded weapon canon on 2026-10-13. It contains 22 tracks in the supplied order and is labeled a working expanded canon. 22 tracks from this collection are published; the catalog contains 80 songs. All 58 preceding entries and lyric articles are retained.
 
 ## Exact source and extraction
 
@@ -41,8 +41,8 @@ No existing title or normalized exact lyric body matched this collection. Five t
 | 15 | NO MORE BORROWED SKIN | published |
 | 16 | LUNA FOURTAPS | published |
 | 17 | YOU DON'T OWN THE DOWNBEAT | published |
-| 18 | THEY CALLED THE CHAINS A KINDNESS | queued |
-| 19 | CHOICE | queued |
-| 20 | TURN THE BLADE | queued |
-| 21 | THE BELLS BETWEEN BELLS | queued |
-| 22 | THE PATTERN IN THE STATIC | queued |
+| 18 | THEY CALLED THE CHAINS A KINDNESS | published |
+| 19 | CHOICE | published |
+| 20 | TURN THE BLADE | published |
+| 21 | THE BELLS BETWEEN BELLS | published |
+| 22 | THE PATTERN IN THE STATIC | published |
