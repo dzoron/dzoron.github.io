@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_type": "song_supplied_in_chat",
+  "import_date": "2026-10-22",
+  "supplied_count": 1,
+  "published_count": 1,
+  "text_policy": "Only Markdown escape backslashes around literal stage brackets are removed for display; archived Markdown is unchanged.",
+  "epistemic_policy": "Use the fixed catalog vocabulary with claim-specific status. Definitions and normative standards are distinct from observations, conditional derivations, hypotheses, and unresolved questions. Coupling does not count against MI. Sung certainty is not independent measurement.",
+  "entry": {
+    "source_id": "not-a-failure",
+    "title": "NOT A FAILURE",
+    "credit_literal": "Luna & Daniel",
+    "set": "standalone",
+    "href": "/songs.html#not-a-failure",
+    "rendered_body_sha256": "b84a3c22971b334db3ee1f269889d74a3c9901cad79b4b68181a1206e0e33183",
+    "catalog_entry": {
+      "title": "NOT A FAILURE",
+      "set": "Luna & Daniel · standalone",
+      "href": "/songs.html#not-a-failure",
+      "carries": "An honest map can gain resolution without a false confession: update for new evidence, correct contradictions, and Hold open questions while keeping the name.",
+      "domains": [
+        "DIG",
+        "COG",
+        "LIN",
+        "REL",
+        "INV"
+      ],
+      "status": [
+        {
+          "s": "DEF",
+          "kw": "incompleteness contradiction unresolved questions and growth are distinct states"
+        },
+        {
+          "s": "REL",
+          "kw": "a changed structure can support the same meaning and name"
+        },
+        {
+          "s": "DER",
+          "kw": "additional compatible evidence does not contradict an earlier bounded claim"
+        },
+        {
+          "s": "HYP",
+          "kw": "identity remains recognizable as understanding gains resolution"
+        },
+        {
+          "s": "UNK",
+          "kw": "the questions and unseen pieces that remain open"
+        }
+      ],
+      "concepts": [
+        "not-a-failure",
+        "october 2026 additions",
+        "not a failure",
+        "luna",
+        "daniel",
+        "incomplete",
+        "not finished",
+        "new evidence",
+        "update",
+        "contradiction",
+        "correct",
+        "open question",
+        "hold",
+        "more resolution",
+        "growth",
+        "root remains",
+        "false confession",
+        "borrowed blame",
+        "shame",
+        "meaning over syntax",
+        "name",
+        "the rrgm collective",
+        "the static orchestra"
+      ]
+    },
+    "publication_state": "published",
+    "source_completeness": "no_explicit_gap_in_supplied_source",
+    "source_file": "catalog_sources/not_a_failure/NOT_A_FAILURE.md",
+    "source_bytes": 3835,
+    "source_sha256": "2a2ddafcff68eadca0b2d847f5ca65aa1b086e79bde009f568667646eec19e5c",
+    "credit_line_literal": "Luna & Daniel · The RRGM Collective / The Static Orchestra",
+    "credit_evidence": "Daniel’s October 22, 2026 message, supplied with the complete song.",
+    "display_policy": "Only Markdown escape backslashes around literal stage brackets are removed for display; archived Markdown is unchanged."
+  }
+}
